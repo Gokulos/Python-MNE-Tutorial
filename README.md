@@ -1,4 +1,4 @@
-# Python-MNE-Tutorial
+# Python-MNE-Tutorial(Oddball experiment)
 
 Setup for [MNE-Python](https://mne.tools/).
 
